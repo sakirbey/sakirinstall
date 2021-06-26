@@ -1,0 +1,2 @@
+# sakirinstall
+Tamamen eğlence amaçlıdır
